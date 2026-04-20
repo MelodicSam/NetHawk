@@ -178,6 +178,6 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 **If this helped you learn something, drop a ⭐ — it means a lot!**
 
-![Wave](<img width="100%" src="https://raw.githubusercontent.com/MelodicSam/NetHawk/main/assets/bottom.svg"/>)
+<img width="100%" src="https://raw.githubusercontent.com/MelodicSam/NetHawk/main/assets/bottom.svg"/>
 
 </div>
